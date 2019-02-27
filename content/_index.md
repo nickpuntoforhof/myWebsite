@@ -2,7 +2,7 @@
 title: Home
 ---
 
-[<img src="https://github.com/nickpuntoforhof/myWebsite/tree/master/themes/hugo-classic/images/therealnewfalllp.png" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/nickpuntoforhof/myWebsite)
+![The Real New Fall LP:](img/therealnewfallp.PNG)
 
 # 1 2 X U
 
