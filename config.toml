@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Noah Stafford"
+title = "noah_stafford"
 theme = "hugo-classic"
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
