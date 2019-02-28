@@ -8,6 +8,10 @@ title: Home
 
 ### A Blog By Me, Noah Stafford
 
+Biomedical Data Science Master's, UW-Madison
+
+[Github](https://github.com/nickpuntoforhof)
+
 
 
 
