@@ -1,7 +1,7 @@
 ---
 title: Visualizing Chicago's Punk Scene
 author: Noah Stafford
-date: '2019-03-11'
+date: '2018-03-11'
 slug: visualizing-chicago-s-punk-scene
 categories:
   - Music
