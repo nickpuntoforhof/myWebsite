@@ -8,11 +8,9 @@ categories:
 tags:
   - shiny
 ---
-<img src = "/img/chicagopunkshinyscreencap.png" alt="Chicago Punk Shiny Screencap"/>
 
-[https://jammypacstrap.shinyapps.io/chicagoBandNetwork/](https://jammypacstrap.shinyapps.io/chicagoBandNetwork/)
-
-<iframe id="chicagoBandNetwork" src="https://jammypacstrap.shinyapps.io/chicagoBandNetwork/" style="border: none; width: 100%; height: 850px" frameborder="0"></iframe>
+<iframe id="chicagoBandNetwork" src="https://jammypacstrap.shinyapps.io/chicagoBandNetwork/" style="border: none; width: 100%; height: 100%" frameborder="0"></iframe>
+Shiny Server Host: [https://jammypacstrap.shinyapps.io/chicagoBandNetwork/](https://jammypacstrap.shinyapps.io/chicagoBandNetwork/)
 
 Here's something I coded up in an effort to teach myself R Shiny, a package that allows coders familiar with R to write interactive web apps in R.  It's a visualization of the 80's Chicago Punk Scene.  The data is based on a page found in the WNUR Rock Show Bible, a binder packed full of hand-made info sheets on historical rock scenes that resides in the exec room of Northwestern University's radio station.  I then supplemented this information with information found at the [Chicago Punk Database.](http://punkdatabase.com/wiki/Main_Page)
 
