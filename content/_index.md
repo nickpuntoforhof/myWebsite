@@ -9,4 +9,4 @@ title: Home
 ### A Blog By Me, Noah Stafford
 
 
-### Blog
+### Posts:
