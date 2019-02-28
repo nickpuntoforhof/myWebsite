@@ -2,7 +2,7 @@
 title: Home
 ---
 
-![The Real New Fall LP:](img/therealnewfallp.PNG)
+<img src = "/img/therealnewfalllp.png" style="max-width:40%;min-width:40%;float:right;" alt="Country On The Click"/>
 
 # 1 2 X U
 

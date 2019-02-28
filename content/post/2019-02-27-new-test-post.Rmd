@@ -1,0 +1,13 @@
+---
+title: New Test Post
+author: Noah Stafford
+date: '2019-02-27'
+slug: new-test-post
+categories: []
+tags: []
+---
+```{r}
+plot(cars)
+```
+
+look at me i'm mr. meeseeks
