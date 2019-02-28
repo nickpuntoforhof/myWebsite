@@ -1,7 +1,7 @@
 ---
 title: Visualizing Chicago's Punk Scene
 author: Noah Stafford
-date: '2019-02-27'
+date: '2019-03-11'
 slug: visualizing-chicago-s-punk-scene
 categories:
   - Music
@@ -10,7 +10,7 @@ tags:
 ---
 
 <iframe id="chicagoBandNetwork" src="https://jammypacstrap.shinyapps.io/chicagoBandNetwork/" style="border: none; width: 1100px; height: 600px" frameborder="0"></iframe>
-Shiny Server Host: [https://jammypacstrap.shinyapps.io/chicagoBandNetwork/](https://jammypacstrap.shinyapps.io/chicagoBandNetwork/)
+The app doesn't look great jammed into the margin width of this website.  Go check it out fullscreen at the shiny server host here: [https://jammypacstrap.shinyapps.io/chicagoBandNetwork/](https://jammypacstrap.shinyapps.io/chicagoBandNetwork/)
 
 Here's something I coded up in an effort to teach myself R Shiny, a package that allows coders familiar with R to write interactive web apps in R.  It's a visualization of the 80's Chicago Punk Scene.  The data is based on a page found in the WNUR Rock Show Bible, a binder packed full of hand-made info sheets on historical rock scenes that resides in the exec room of Northwestern University's radio station.  I then supplemented this information with information found at the [Chicago Punk Database.](http://punkdatabase.com/wiki/Main_Page)
 
