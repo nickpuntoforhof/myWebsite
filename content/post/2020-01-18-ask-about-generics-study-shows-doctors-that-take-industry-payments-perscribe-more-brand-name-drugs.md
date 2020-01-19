@@ -4,7 +4,7 @@ title: 'Ask About Generics: ProPublica Study Shows Doctors That Take Industry Pa
 author: Noah Stafford
 date: '2020-01-18'
 slug: ask-about-generics-study-shows-doctors-that-take-industry-payments-prescribe-more-brand-name-drugs
-categories: []
+categories: [healthcare]
 tags: []
 ---
 
