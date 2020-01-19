@@ -31,13 +31,13 @@ So what they end up with is a binary 'high brand-name prescriber' variable and a
 These variables allowed the investigators to calculate risk ratios[^7].  In this case, the risk ratios are interpreted as the ratio of the probability of being a high brand-name perscriber given the doctor recieved industry payments to the probability of being a high brand-name perscriber given the doctor did not recieve any industry payments.
 
 Doctors that receive industry payments are significantly more likely to be among the group of high-rate brand-name perscribers within their field.  
-<img src = "/img/table_4_propublica_payments.png" style="max-width:50%;min-width:50%;float:right;" alt="Table 4"/>
+<img src = "/img/table_4_propublica_payments.png" style="max-width:90%;min-width:50%;" alt="Table 4"/>
 
 The investigators' analysis takes this basic framework and spins it in a number of different ways, looking at the results' sensitivity to defining their two derived variables, but they consistently get the same result
 
 In a second section of the analysis, they demonsrate when you slice up the amount of money doctors recieved and bucket them, you see a clear, steady increase in the brand-name perscribing rate as the amount of money recieved increases.
 
-<img src = "/img/table_6_propublica_payments.png" style="max-width:50%;min-width:50%;float:right;" alt="Table 6"/>
+<img src = "/img/table_6_propublica_payments.png" style="max-width:90%;min-width:50%;" alt="Table 6"/>
 
 
 
