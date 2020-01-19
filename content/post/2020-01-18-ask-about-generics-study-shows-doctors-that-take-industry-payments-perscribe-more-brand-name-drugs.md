@@ -9,6 +9,7 @@ tags: []
 ---
 
 This really isn't a post intended as a persuasive essay to get people to buy generic drugs, but I'll start with a little bit on that because it's an important discussion to have.  If you are perscribed medication, and there is a generic option, ask for that generic version at the pharmacy.  If your doctor mandates that you use the brand-name version, ask them why.  
+<div style="width:50%; height:50%; font-size:80%; text-align:right;"><img src="/img/pill_man.jpg" alt="The Pill Man" width="width" height="height" style="padding-bottom:0.5em;" />This friendly face could be influenced by big pharma payouts</div>
 
 Generic drugs are not worse.  They are cheaper than the brand-name, because the brand-name enjoyed patent protection, and used that monopoly on the marked to charge more for the drug.  When the patent expires, the drug is then open to be manufactured by any company, and these drugs are usually sold at a much lower price.  Yet doctors continue to perscribe (and people continue to ask for) brand-name drugs well after generics are available.  Why? On reason is that there is an unearned stigma around generics.  American advertising likes to tell us that there is something special and unique about branded products.  There are people out there, right now, making a living off of their ability to [distinguish authentic Adidas Yeezys from fakes](https://youtu.be/X3ySrcI2mEA).  This is not the case with generic drugs.  As Patrick J. Skerrett states in a post on the Harvard Health Blog [^1]
 
@@ -31,7 +32,7 @@ So what they end up with is a binary 'high brand-name prescriber' variable and a
 These variables allowed the investigators to calculate risk ratios[^7].  In this case, the risk ratios are interpreted as the ratio of the probability of being a high brand-name perscriber given the doctor recieved industry payments to the probability of being a high brand-name perscriber given the doctor did not recieve any industry payments.
 
 Doctors that receive industry payments are significantly more likely to be among the group of high-rate brand-name perscribers within their field.  
-<img src = "/img/table_4_propublica_payments.png" style="max-width:90%;min-width:50%;" alt="Table 4"/>
+<img src = "/img/table_3_propublica_payments.png" style="max-width:90%;min-width:50%;" alt="Table 4"/>
 
 The investigators' analysis takes this basic framework and spins it in a number of different ways, looking at the results' sensitivity to defining their two derived variables, but they consistently get the same result
 
